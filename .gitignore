@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+ENV/
+
+.pytest_cache/
+.hypothesis/
+.coverage
+htmlcov/
+
+build/
+dist/
+*.egg-info/
+
+mnist_*_training_curve.png
